@@ -9,7 +9,7 @@ menu:
 subnav:
   github: "https://github.com/Lewiskong"
   weibo: "https://weibo.com/6352613668/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
-  rss: "#"
+  # rss: "#"
   zhihu: "https://www.zhihu.com/people/lewiskong/activities"
   #qq: "#"
   #weixin: "#"
